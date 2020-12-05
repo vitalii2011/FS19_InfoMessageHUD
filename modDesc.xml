@@ -42,10 +42,12 @@ Changelog:
 		<text name="woodHarvester_cutLength">
 			<de>Schnittlänge</de>
 			<en>Cutting length</en>
+			<ru>Длина отреза</ru>
 		</text>
 		<text name="woodHarvester_maxLength">
 			<de>Max. Schnittlänge</de>
 			<en>Max. cutting length</en>
+			<ru>Макс. длина отреза</ru>
 		</text>
 	</l10n>
 
